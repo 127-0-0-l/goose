@@ -1,0 +1,16 @@
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.AssemblyReference.cache
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.SuggestedBindingRedirects.cache
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.CoreCompileInputs.cache
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.exe.config
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.exe
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.pdb
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.exe
+D:\Games\desktop goose\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.pdb
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.AssemblyReference.cache
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.SuggestedBindingRedirects.cache
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.csproj.CoreCompileInputs.cache
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.exe
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\obj\Debug\GooseDesktop.pdb
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.exe.config
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.exe
+C:\Users\MAKS\root\programming\desktop-goose-source\Source\GooseDesktop\bin\Debug\GooseDesktop.pdb
